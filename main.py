@@ -23,7 +23,7 @@ def clean_folder(folder_path):
                 
 
 if __name__ == "__main__":
-    print("Desktop Cleaner")
+    # print("Desktop Cleaner")
     folder_path = os.path.join(os.path.expanduser("~"), "Downloads")
 
     # folder_path = "C:\Users\dough\Downloads"
