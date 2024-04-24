@@ -32,6 +32,9 @@ if __name__ == "__main__":
         print("Cleaning Complete")
     else:
         print("Invalid folder in path")
+# add_new_folders = mkdir
+# def add_new_folders(folder_path)
+
     
     
     
